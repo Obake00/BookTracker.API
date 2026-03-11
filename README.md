@@ -1,6 +1,10 @@
 Ola! Bem vindo a aplicação BookTracker,
 Projeto iniciado para proposta de teste pratico!
 
+Padrão do projeto realizado em camadas, onde tive menos dificuldade de aplicação, embora algumas dificuldades fossem algumas partes de codigo que tive que utilizar de I.A para resolver, principalmente na ligação do banco de dados com a API proposta
+onde tive que utilizar de varios testes para rodar a aplicação.
+projeto rodando em Docker como pedido
+
 Instruçoes basicas para uso da aplicação:
 - Clone do repositorio para uso local em maquina
 - ( https://github.com/Obake00/BookTracker.API.git )
