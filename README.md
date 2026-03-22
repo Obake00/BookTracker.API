@@ -23,3 +23,5 @@ Instruçoes basicas para uso da aplicação:
 - "PUT /api/books/{id}" -> Altera info sobre o livro por ID
 - "DELETE /api/books/{id}" -> Deleta um livro da base de dados do banco via ID
 - "PATCH /api/books/{id}/status" -> Altera o status de leitura do livro 1 - Quero, 2 - Lendo, 3 - Ja li via ID
+
+Para encerrar a aplicação no terminal onde foi aberto a raiz do projeto e de o comando "Ctrl+C".
